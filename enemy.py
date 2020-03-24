@@ -1,7 +1,7 @@
 import pygame
 
-class Enemy():
-    def __init__(self, x, y):
+class Enemy:
+    def __init__(self, x, y, imgs):
         self.x = x
         self.y = y
         self.imgs = []

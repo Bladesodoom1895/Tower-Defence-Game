@@ -29,3 +29,6 @@ class Game:
                     run = False
 
         pygame.quit()
+
+    def win(self):
+        pass
